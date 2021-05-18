@@ -13,7 +13,6 @@ It should be started from terminal by: python rock_paper_scissors.py
 ## Author
 
     https://github.com/nNDVG/
-    https://hub.docker.com/u/ndvg/
 
 ## Contacts
 
